@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
-public class ShootingScript : MonoBehaviour {
+public class ShootingScript : NetworkBehaviour {
 
 
 	public ParticleSystem _muzzleFlash;
@@ -15,9 +16,6 @@ public class ShootingScript : MonoBehaviour {
 
 
 
-
-
-
 	// Use this for initialization
 	void Start () {
 		_impactEffect = Instantiate (_impactPrefab).GetComponent<ParticleSystem> ();
@@ -25,6 +23,12 @@ public class ShootingScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+
+		if(Input.GetButtonDown("Fire2")){
+			CmdHitPlayer(gameObject);
+		}
+
 
 		if (Input.GetButtonDown ("Fire1")) {
 		
@@ -47,13 +51,17 @@ public class ShootingScript : MonoBehaviour {
 
 				if (hit.transform.tag == "Player") {
 				
-					Destroy (hit.transform.gameObject);
-
+					CmdHitPlayer (hit.transform.gameObject);
 				}
 
 			}
 
 		}
 		
+	}
+	[Command]
+	void CmdHitPlayer(GameObject hit){
+	
+		hit.GetComponent<NetworkedPlayerScript> ().RpcResolveHit ();
 	}
 }

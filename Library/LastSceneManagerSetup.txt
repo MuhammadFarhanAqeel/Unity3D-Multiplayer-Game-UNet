@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Done/DoneScenes/DoneStealth.unity
+- path: Assets/Scenes/Gameplay.unity
   isLoaded: 1
   isActive: 1

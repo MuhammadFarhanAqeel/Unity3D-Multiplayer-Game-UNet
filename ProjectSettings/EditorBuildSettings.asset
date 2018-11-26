@@ -6,4 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Done/DoneScenes/DoneStealth.unity
+    path: Assets/Scenes/Lobby.unity
+    guid: f7ddf4e874cd26d4cb402d38d91e63b2
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 4e71d99641bf3a345869442bb9988901

@@ -23,7 +23,7 @@ public class CandyCaneMaterialSwitcher : MonoBehaviour {
 		SwitchMaterial (false);
 	}
 	
-	void SwitchMaterial(bool isLocalPlayer){
+	public void SwitchMaterial(bool isLocalPlayer){
 		if (isLocalPlayer) {
 			candyCaneRenderer.material = localCaneMaterial;
 		} else {

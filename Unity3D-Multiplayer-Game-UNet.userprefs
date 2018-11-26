@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NetworkedPlayerScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NetworkedPlayerScript.cs" Line="46" Column="35" />
+      <File FileName="Assets\Scripts\CandyCaneMaterialSwitcher.cs" Line="26" Column="9" />
+      <File FileName="Assets\Scripts\ShootingScript.cs" Line="65" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
