@@ -1,0 +1,15 @@
+Recommended categories for Physics Games
+-------------------------------------------------------------------------------
+USER_INTERFACES: User interface and menu naviation
+IMPACTS: Interaction with stone, wood, metal, etc.
+PUZZLES: Music stabs for success and achievements
+ROBOTICS\Servos: Robotic movements
+CREAKS: Creaking wood
+SCRAPES_SCRATCHES: Scraping and scratching sounds
+MACHINES_MECHANICS: Machine and Mechanical sounds
+THUDS_THUMPS: Soft objects impacts
+VEHICLES\Thrusters: Rockets and thrusters
+FRICTION: Friction sounds
+SHATTER: Shatter sounds
+ENGINES_MOTORS_GENERATORS: Engine motor and generator sounds
+

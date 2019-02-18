@@ -1,0 +1,6 @@
+Recommended categories for Puzzle Games
+-------------------------------------------------------------------------------
+USER_INTERFACES: User interface and menu naviation
+IMPACTS: Interaction with stone, wood, metal, etc.
+PUZZLES: Music stabs for success and achievements
+MUSIC_EFFECTS: Positive and Negative Music Effects (e.g. game over, level completed, etc.)

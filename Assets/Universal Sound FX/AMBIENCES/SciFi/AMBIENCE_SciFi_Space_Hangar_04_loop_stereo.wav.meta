@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 56b038174d3f2fd479d268f7c204a84b
+labels:
+- usfx
+- imphenzia
+- stereo
+- loop
+- scifi
+- hum
+- future
+- ambience
+- hangar
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

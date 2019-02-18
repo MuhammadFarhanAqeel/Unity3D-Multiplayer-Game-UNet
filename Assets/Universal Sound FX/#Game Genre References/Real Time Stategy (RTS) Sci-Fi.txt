@@ -1,0 +1,13 @@
+Recommended categories for RTS Sci-Fi Games
+-------------------------------------------------------------------------------
+USER_INTERFACES: User interface and menu naviation
+EXPLOSIONS: Explosions
+ROBOTICS: Building structures
+WEAPONS\Firearms\Fire_Real_Time_Strategy_RTS: Firearms mastered for RTS games
+WEAPONS\Sci-Fi: Futuristic weapons
+VOICES\Words_Phrases\Radio_Male: Unit communications
+VOICES\Words_Phrases\Male: Unit communications
+VOICES\Words_Phrases\Female: Unit communications
+VOICES\Words_Phrases\Robotic_Male: Unit communications
+ELECTRICITY: Force fields
+THRUSTERS_FLAMES: Thruster and fire/flame effects

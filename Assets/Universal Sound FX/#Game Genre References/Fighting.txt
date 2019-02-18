@@ -1,0 +1,14 @@
+Recommended categories for Fighting Games
+-------------------------------------------------------------------------------
+IMPACTS: Generic impacts hits & punches
+WHOOSHES: Hand / Leg and Weapon movement through air
+WEAPONS\Melee: Hand weapons being wieled and hitting body/armor
+THUDS_THUMPS: Hits to body and body falls
+GORE_SPLATS: Blood, Gore, and guts
+FABRIC_CLOTHING: Quick movement of clothes when punching / kicking
+USER_INTERFACES: User interface and menu navigation
+BREAKS_SNAPS: Bone breaking
+VOICES\Martial_Arts_Male: Expressive shouts when kicking / punching
+VOICES\Grunts_Groans_Hurt: Vocalization when being hit and hurt
+VOICES\Words_Phrases\Male: Announcer ("Fight", "You Win", etc.)
+VOICES\Words_Phrases\Robotic_Male: Announcer ("Fight", "You Win", etc.)

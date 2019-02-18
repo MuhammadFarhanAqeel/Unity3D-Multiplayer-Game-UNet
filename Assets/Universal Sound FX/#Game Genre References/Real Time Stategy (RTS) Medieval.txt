@@ -1,0 +1,9 @@
+Recommended categories for RTS Medieval & Fantasy Games
+-------------------------------------------------------------------------------
+USER_INTERFACES: User interface and menu naviation
+WEAPONS\Melee: Hand combat weapons
+WEAPONS\Bow & Arrow: Bows and Arrows
+MONSTERS_CREATURES: Monsters and creatuers
+GORE_SPLATS: Defeating enemies and creatures
+MAGIC_SPELLS: Magic and spell casting
+AMBIENCES: Ambiences

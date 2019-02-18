@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/MainGameplay.unity
+- path: Assets/Scene/GameLobby.unity
   isLoaded: 1
   isActive: 1
