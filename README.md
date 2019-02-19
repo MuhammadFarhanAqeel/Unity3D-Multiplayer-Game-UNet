@@ -10,4 +10,8 @@ The game has been developed using Unity 5.6.2p4. It will work fine with the new 
 * Lobby System
 * UI for lobby
 
+
 More tutorials: https://www.youtube.com/channel/UCXz4MbSBnBO1BNFWQ_cq5Cg
+
+
+PS: I haven't used any paid assets that were used
